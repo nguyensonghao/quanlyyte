@@ -48,3 +48,6 @@ body {
 	background-color: white;
 	min-height: 100vh;
 }
+.center {
+	text-align: center;
+}
